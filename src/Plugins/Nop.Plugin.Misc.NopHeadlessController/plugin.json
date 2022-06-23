@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Misc",
+  "FriendlyName": "NopHeadlessController",
+  "SystemName": "Misc.NopHeadlessController",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.60","4,50","4,40" ],
+  "Author": " Reengineering ",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.NopHeadlessController.dll",
+  "Description": "This plugin allows to integrate with Nop Headless Controller"
+}
